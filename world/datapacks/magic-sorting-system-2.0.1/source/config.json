@@ -8,7 +8,7 @@
 	"groups": [
 		{
 			"group_name": "dirt",
-			"item_frame": "minecraft:dirt",
+			"item_frame": "minecraft:coarse_dirt",
 			"fallback": "misc",
 			"items": [
 				"minecraft:coarse_dirt",
@@ -22,7 +22,7 @@
 		},
 		{
 			"group_name": "gravel",
-			"item_frame": "minecraft:gravel",
+			"item_frame": "minecraft:flint",
 			"fallback": "dirt",
 			"items": [
 				"minecraft:gravel"
@@ -30,7 +30,7 @@
 		},
 		{
 			"group_name": "sand",
-			"item_frame": "minecraft:sand",
+			"item_frame": "minecraft:glass",
 			"fallback": "misc",
 			"items": [
 				"minecraft:sand"
@@ -38,7 +38,7 @@
 		},
 		{
 			"group_name": "sandstone",
-			"item_frame": "minecraft:sandstone",
+			"item_frame": "minecraft:chiseled_sandstone",
 			"fallback": "sand",
 			"items": [
 				"minecraft:chiseled_red_sandstone",
@@ -66,7 +66,7 @@
 		},
 		{
 			"group_name": "wood",
-			"item_frame": "minecraft:oak_log",
+			"item_frame": "minecraft:oak_planks",
 			"fallback": "misc",
 			"items": [
 				"minecraft:acacia_log",
@@ -205,7 +205,7 @@
 		},
 		{
 			"group_name": "office",
-			"item_frame": "minecraft:paper",
+			"item_frame": "minecraft:bookshelf",
 			"fallback": "woodwork",
 			"items": [
 				"minecraft:bookshelf",
@@ -218,7 +218,7 @@
 		},
 		{
 			"group_name": "stone",
-			"item_frame": "minecraft:cobblestone",
+			"item_frame": "minecraft:stone",
 			"fallback": "misc",
 			"items": [
 				"minecraft:andesite",
@@ -233,7 +233,7 @@
 		},
 		{
 			"group_name": "stonework",
-			"item_frame": "minecraft:cobblestone_stairs",
+			"item_frame": "minecraft:stone_stairs",
 			"fallback": "stone",
 			"items": [
 				"minecraft:brick",
@@ -287,7 +287,7 @@
 		},
 		{
 			"group_name": "coal",
-			"item_frame": "minecraft:coal",
+			"item_frame": "minecraft:charcoal",
 			"fallback": "misc",
 			"items": [
 				"minecraft:charcoal",
@@ -436,7 +436,7 @@
 		},
 		{
 			"group_name": "rails",
-			"item_frame": "minecraft:rail",
+			"item_frame": "minecraft:detector_rail",
 			"fallback": "tools",
 			"items": [
 				"minecraft:activator_rail",
@@ -453,7 +453,7 @@
 		},
 		{
 			"group_name": "plants",
-			"item_frame": "minecraft:oak_sapling",
+			"item_frame": "minecraft:spruce_sapling",
 			"fallback": "misc",
 			"items": [
 				"minecraft:acacia_leaves",
@@ -514,7 +514,7 @@
 		},
 		{
 			"group_name": "flowers",
-			"item_frame": "minecraft:poppy",
+			"item_frame": "minecraft:dandelion",
 			"fallback": "plants",
 			"items": [
 				"minecraft:allium",
@@ -578,10 +578,11 @@
 		},
 		{
 			"group_name": "mobs",
-			"item_frame": "minecraft:bone",
+			"item_frame": "minecraft:rotten_flesh",
 			"fallback": "misc",
 			"items": [
 				"minecraft:bat_spawn_egg",
+				"minecraft:blaze_rod",
 				"minecraft:blaze_spawn_egg",
 				"minecraft:bone",
 				"minecraft:bone_block",
@@ -600,6 +601,7 @@
 				"minecraft:drowned_spawn_egg",
 				"minecraft:egg",
 				"minecraft:elder_guardian_spawn_egg",
+				"minecraft:ender_pearl",
 				"minecraft:enderman_spawn_egg",
 				"minecraft:endermite_spawn_egg",
 				"minecraft:evoker_spawn_egg",
@@ -716,19 +718,17 @@
 		},
 		{
 			"group_name": "magic",
-			"item_frame": "minecraft:glass_bottle",
+			"item_frame": "minecraft:blaze_rod",
 			"fallback": "misc",
 			"items": [
 				"minecraft:bedrock",
 				"minecraft:blaze_powder",
-				"minecraft:blaze_rod",
 				"minecraft:brewing_stand",
 				"minecraft:cauldron",
 				"minecraft:dragon_breath",
 				"minecraft:enchanted_golden_apple",
 				"minecraft:enchanting_table",
 				"minecraft:ender_eye",
-				"minecraft:ender_pearl",
 				"minecraft:experience_bottle",
 				"minecraft:glass_bottle",
 				"minecraft:glistering_melon_slice",
@@ -758,7 +758,7 @@
 		},
 		{
 			"group_name": "wool",
-			"item_frame": "minecraft:white_wool",
+			"item_frame": "minecraft:green_wool",
 			"fallback": "misc",
 			"items": [
 				"minecraft:black_banner",
@@ -813,7 +813,7 @@
 		},
 		{
 			"group_name": "concrete",
-			"item_frame": "minecraft:gray_concrete_powder",
+			"item_frame": "minecraft:green_concrete_powder",
 			"fallback": "misc",
 			"items": [
 				"minecraft:black_concrete",
@@ -851,7 +851,7 @@
 			]
 		},
 		{
-			"group_name": "terracotta",
+			"group_name": "green_terracotta",
 			"item_frame": "minecraft:terracotta",
 			"fallback": "misc",
 			"items": [
@@ -892,7 +892,7 @@
 		},
 		{
 			"group_name": "glass",
-			"item_frame": "minecraft:glass",
+			"item_frame": "minecraft:glass_pane",
 			"fallback": "misc",
 			"items": [
 				"minecraft:black_stained_glass",
@@ -933,7 +933,7 @@
 		},
 		{
 			"group_name": "ice",
-			"item_frame": "minecraft:ice",
+			"item_frame": "minecraft:snowball",
 			"fallback": "misc",
 			"items": [
 				"minecraft:blue_ice",
@@ -946,7 +946,7 @@
 		},
 		{
 			"group_name": "ocean",
-			"item_frame": "minecraft:kelp",
+			"item_frame": "minecraft:dried_kelp",
 			"fallback": "misc",
 			"items": [
 				"minecraft:dried_kelp",
@@ -1037,7 +1037,7 @@
 		},
 		{
 			"group_name": "nether",
-			"item_frame": "minecraft:netherrack",
+			"item_frame": "minecraft:nether_brick",
 			"fallback": "misc",
 			"items": [
 				"minecraft:chiseled_quartz_block",
@@ -1084,7 +1084,7 @@
 		},
 		{
 			"group_name": "redstone",
-			"item_frame": "minecraft:redstone",
+			"item_frame": "minecraft:redstone_torch",
 			"fallback": "misc",
 			"items": [
 				"minecraft:chain_command_block",
@@ -1151,7 +1151,7 @@
 		},
 		{
 			"group_name": "misc",
-			"item_frame": "minecraft:carrot_on_a_stick",
+			"item_frame": "minecraft:cactus_green",
 			"note": "This is a special catch-all group, which receives all unsorted items when the system cannot find their proper homes.  Using this you can progressively build a sorting system over time, that only has some groups but not all.",
 			"items": [
 				"minecraft:carrot_on_a_stick"
