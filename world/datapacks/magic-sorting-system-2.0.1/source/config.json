@@ -327,7 +327,6 @@
 				"minecraft:golden_pickaxe",
 				"minecraft:golden_shovel",
 				"minecraft:golden_sword",
-				"minecraft:gunpowder",
 				"minecraft:iron_axe",
 				"minecraft:iron_bars",
 				"minecraft:iron_block",
@@ -436,7 +435,7 @@
 		},
 		{
 			"group_name": "rails",
-			"item_frame": "minecraft:detector_rail",
+			"item_frame": "minecraft:activator_rail",
 			"fallback": "tools",
 			"items": [
 				"minecraft:activator_rail",
@@ -610,6 +609,7 @@
 				"minecraft:ghast_spawn_egg",
 				"minecraft:ghast_tear",
 				"minecraft:guardian_spawn_egg",
+				"minecraft:gunpowder",
 				"minecraft:horse_spawn_egg",
 				"minecraft:husk_spawn_egg",
 				"minecraft:infested_chiseled_stone_bricks",
@@ -1151,7 +1151,7 @@
 		},
 		{
 			"group_name": "misc",
-			"item_frame": "minecraft:cactus_green",
+			"item_frame": "minecraft:green_dye",
 			"note": "This is a special catch-all group, which receives all unsorted items when the system cannot find their proper homes.  Using this you can progressively build a sorting system over time, that only has some groups but not all.",
 			"items": [
 				"minecraft:carrot_on_a_stick"
