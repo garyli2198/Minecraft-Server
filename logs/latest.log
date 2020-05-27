@@ -1,0 +1,41 @@
+[00:01:48] [Server thread/INFO]: blackjack95129 lost connection: Disconnected
+[00:01:48] [Server thread/INFO]: blackjack95129 left the game
+[00:03:12] [User Authenticator #44/INFO]: UUID of player shpwns is 993fd34c-20ae-45a3-ac88-819a2a552cee
+[00:03:12] [Server thread/INFO]: shpwns[/24.7.14.167:53660] logged in with entity id 343111 at (-179.91703731197418, 64.0, 125.0161242490303)
+[00:03:12] [Server thread/INFO]: shpwns joined the game
+[00:03:17] [Server thread/INFO]: <M1kester> are you okay bro
+[00:03:23] [Server thread/INFO]: <shpwns> i showered
+[00:03:36] [Server thread/INFO]: <M1kester> https://discord.gg/zNCp63
+[00:03:56] [Server thread/INFO]: <shpwns> i cant copy that
+[00:04:07] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/343441, l='world', x=-114.52, y=69.39, z=102.13]
+[00:09:35] [User Authenticator #45/INFO]: UUID of player blackjack95129 is ab49c5c0-91cb-41d0-a6a8-8680c332c3ec
+[00:09:35] [Server thread/INFO]: blackjack95129[/24.5.30.138:59635] logged in with entity id 345599 at (2184.6129752356765, 69.0, -3921.273853347584)
+[00:09:35] [Server thread/INFO]: blackjack95129 joined the game
+[00:14:23] [Server thread/WARN]: Fetching packet for removed entity awb['Oak Planks'/348624, l='world', x=-155.50, y=62.50, z=118.03]
+[00:14:25] [Server thread/WARN]: Fetching packet for removed entity awb['Scaffolding'/348652, l='world', x=-155.50, y=63.50, z=119.97]
+[00:17:32] [Server thread/WARN]: Fetching packet for removed entity awb['Torch'/348722, l='world', x=-155.97, y=61.92, z=131.96]
+[00:21:33] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/351850, l='world', x=-114.44, y=64.00, z=96.88]
+[00:21:37] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/351867, l='world', x=-154.14, y=67.94, z=206.88]
+[00:30:41] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/355789, l='world', x=-154.14, y=67.80, z=206.64]
+[00:33:43] [Server thread/INFO]: Scicaddu has made the advancement [Diamonds!]
+[00:34:25] [Server thread/INFO]: Scicaddu has made the advancement [Acquire Hardware]
+[00:35:01] [Server thread/INFO]: Scicaddu has made the advancement [Suit Up]
+[00:37:51] [Server thread/INFO]: Scicaddu has made the advancement [Stone Age]
+[00:38:52] [Server thread/INFO]: ShirleyMSun has made the advancement [Acquire Hardware]
+[00:41:09] [Server thread/INFO]: Scicaddu has made the advancement [Getting an Upgrade]
+[00:44:06] [Server thread/INFO]: Scicaddu has made the advancement [Isn't It Iron Pick]
+[00:44:30] [Server thread/INFO]: shpwns lost connection: Disconnected
+[00:44:30] [Server thread/INFO]: shpwns left the game
+[00:48:26] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/365312, l='world', x=-156.03, y=60.87, z=118.03]
+[00:48:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/365418, l='world', x=-155.50, y=60.83, z=118.03]
+[00:48:36] [Server thread/INFO]: blackjack95129 lost connection: Disconnected
+[00:48:36] [Server thread/INFO]: blackjack95129 left the game
+[00:48:37] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/365502, l='world', x=-155.50, y=60.50, z=118.03]
+[00:48:41] [Server thread/INFO]: Scicaddu lost connection: Disconnected
+[00:48:41] [Server thread/INFO]: Scicaddu left the game
+[00:48:42] [Server thread/INFO]: M1kester lost connection: Disconnected
+[00:48:42] [Server thread/INFO]: M1kester left the game
+[00:49:01] [Server thread/WARN]: Fetching packet for removed entity awb['Wheat'/365664, l='world', x=-155.50, y=62.67, z=124.03]
+[00:49:06] [Server thread/INFO]: ShirleyMSun lost connection: Disconnected
+[00:49:06] [Server thread/INFO]: ShirleyMSun left the game
+[12:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33581210ms or 671624 ticks behind
