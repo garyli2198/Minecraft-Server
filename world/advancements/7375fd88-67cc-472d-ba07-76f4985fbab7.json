@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-05-27 22:20:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-22 22:14:27 -0700"
@@ -433,7 +439,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-05-26 00:40:26 -0700"
+      "tick": "2020-06-17 15:02:51 -0700"
     },
     "done": false
   },

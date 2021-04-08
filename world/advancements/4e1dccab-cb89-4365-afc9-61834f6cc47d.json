@@ -95,15 +95,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2020-05-25 22:28:45 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2020-05-25 22:17:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-05-25 22:28:45 -0700"
     },
     "done": true
   },
@@ -520,7 +520,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-05-25 23:29:35 -0700"
+      "tick": "2020-05-27 22:05:36 -0700"
     },
     "done": false
   },
